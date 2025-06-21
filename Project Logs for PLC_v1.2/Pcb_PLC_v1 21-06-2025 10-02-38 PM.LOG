@@ -1,0 +1,10 @@
+Added Component: Designator=U1(STM32_LQFP100)
+Added Component: Designator=U2(TQFP-32)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "32-TQFP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ATMEGA328P-AUR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "ATMEGA328P-AUR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "Arrow"; VariantName = "[No Variations]"
+Added Class: Name=Sch_PLC_v1.2
+Added Room: Name=Sch_PLC_v1.2
